@@ -1,0 +1,301 @@
+ResponseID,Timestamp,StudentID,Age,Gender,Department,Year,EventName,SessionRating,OverallRating,WouldRecommend,FeedbackText,PositiveWordsCount,NegativeWordsCount
+R1000,2025-09-08 15:36:00,S15942,21,Female,Business,4th Year,Sports Day,2,3,Yes,It was decent but there is room for improvement in scheduling. The venue was fine but refreshments could be better.,0,0
+R1001,2025-09-02 15:24:00,S11627,18,Male,Mechanical,2nd Year,Cultural Night,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1002,2025-09-01 15:49:00,S16018,22,Male,Electronics,3rd Year,Cultural Night,4,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1003,2025-09-09 19:29:00,S18920,21,Other/Prefer not to say,Computer Science,1st Year,Sports Day,4,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1004,2025-09-04 12:06:00,S15876,22,Male,Mechanical,3rd Year,Alumni Talk,3,3,No,Average event — good topics but execution could improve.,1,1
+R1005,2025-09-04 03:52:00,S10992,17,Male,Biotech,2nd Year,Sports Day,4,3,Maybe,"It served its purpose; not bad, not excellent.",0,2
+R1006,2025-09-03 21:57:00,S16523,21,Other/Prefer not to say,Mechanical,4th Year,Sports Day,2,2,Maybe,Not satisfied. Sessions started late and organization was poor.,0,2
+R1007,2025-09-02 23:06:00,S14520,25,Female,Business,1st Year,Sports Day,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1008,2025-09-09 18:06:00,S13109,18,Male,Electronics,3rd Year,Sports Day,4,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1009,2025-09-02 12:59:00,S12001,17,Other/Prefer not to say,Business,4th Year,Tech Symposium,4,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1010,2025-09-09 01:47:00,S17450,25,Female,Civil,2nd Year,Workshop on ML,1,1,No,Too crowded and poor time management. Won't recommend.,0,3
+R1011,2025-09-09 19:15:00,S11501,25,Male,Business,2nd Year,Cultural Night,4,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1012,2025-09-07 13:55:00,S13475,25,Male,Civil,1st Year,Alumni Talk,4,5,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1013,2025-09-02 08:44:00,S19783,22,Male,Business,1st Year,Tech Symposium,4,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1014,2025-09-08 02:14:00,S10349,24,Female,Electronics,3rd Year,Cultural Night,4,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1015,2025-09-06 04:12:00,S10828,17,Female,Electronics,4th Year,Workshop on ML,3,3,Yes,Average event — good topics but execution could improve.,1,1
+R1016,2025-09-01 17:40:00,S15464,20,Male,Computer Science,4th Year,Sports Day,3,3,No,Average event — good topics but execution could improve.,1,1
+R1017,2025-09-01 17:08:00,S13990,17,Male,Business,2nd Year,Workshop on ML,3,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1018,2025-09-02 10:35:00,S12063,24,Female,Civil,2nd Year,Cultural Night,3,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1019,2025-09-03 20:42:00,S19250,17,Other/Prefer not to say,Computer Science,3rd Year,Cultural Night,3,3,Yes,"The event was okay. Some sessions were useful, some were average. The venue was fine but refreshments could be better.",0,0
+R1020,2025-09-04 00:31:00,S13362,19,Female,Mechanical,3rd Year,Tech Symposium,4,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1021,2025-09-07 02:59:00,S11124,20,Other/Prefer not to say,Electronics,2nd Year,Tech Symposium,2,2,No,Too crowded and poor time management. Won't recommend. Communication about schedule was unclear.,0,3
+R1022,2025-09-08 05:23:00,S19080,24,Other/Prefer not to say,Computer Science,2nd Year,Alumni Talk,3,3,No,Neutral experience. Expected more interaction from speakers.,0,0
+R1023,2025-09-01 16:14:00,S13394,22,Other/Prefer not to say,Electronics,4th Year,Sports Day,3,3,Yes,It was decent but there is room for improvement in scheduling.,0,0
+R1024,2025-09-07 18:15:00,S19607,23,Male,Computer Science,4th Year,Workshop on ML,5,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1025,2025-09-03 15:17:00,S13538,24,Male,Mechanical,4th Year,Sports Day,4,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1026,2025-09-09 12:31:00,S13817,18,Other/Prefer not to say,Mechanical,3rd Year,Workshop on ML,3,3,No,Average event — good topics but execution could improve.,1,1
+R1027,2025-09-08 18:27:00,S15383,24,Other/Prefer not to say,Biotech,4th Year,Sports Day,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1028,2025-09-09 08:30:00,S12417,19,Other/Prefer not to say,Civil,1st Year,Cultural Night,4,4,Yes,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1029,2025-09-07 13:48:00,S19764,23,Female,Biotech,1st Year,Cultural Night,1,1,Yes,Disappointing—expectations were higher than what was delivered.,0,0
+R1030,2025-09-06 03:33:00,S10046,19,Male,Civil,4th Year,Sports Day,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1031,2025-09-03 21:11:00,S14542,23,Other/Prefer not to say,Mechanical,4th Year,Alumni Talk,3,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1032,2025-09-06 11:39:00,S12370,18,Other/Prefer not to say,Computer Science,2nd Year,Cultural Night,1,2,Maybe,Speakers were not engaging and audio quality was bad. Communication about schedule was unclear.,0,1
+R1033,2025-09-08 01:54:00,S12129,22,Female,Business,2nd Year,Alumni Talk,4,5,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1034,2025-09-04 12:57:00,S18850,19,Male,Electronics,3rd Year,Cultural Night,4,5,Maybe,Great speakers and hands-on activities — learned a lot. The hands-on part and Q&A were particularly helpful.,1,0
+R1035,2025-09-10 14:01:00,S14106,19,Other/Prefer not to say,Mechanical,1st Year,Tech Symposium,4,5,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1036,2025-09-11 06:22:00,S12858,25,Male,Mechanical,1st Year,Tech Symposium,4,3,No,It was decent but there is room for improvement in scheduling.,0,0
+R1037,2025-09-01 10:46:00,S11801,23,Other/Prefer not to say,Computer Science,3rd Year,Sports Day,2,2,Yes,Disappointing—expectations were higher than what was delivered.,0,0
+R1038,2025-09-10 00:12:00,S10422,21,Female,Business,4th Year,Workshop on ML,4,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1039,2025-09-10 13:02:00,S12159,23,Female,Mechanical,4th Year,Tech Symposium,3,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1040,2025-09-03 04:35:00,S10243,25,Male,Mechanical,3rd Year,Cultural Night,2,2,No,Speakers were not engaging and audio quality was bad.,0,1
+R1041,2025-09-09 07:38:00,S15869,17,Female,Computer Science,1st Year,Cultural Night,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1042,2025-09-06 04:24:00,S13898,23,Male,Mechanical,1st Year,Tech Symposium,1,1,Yes,Disappointing—expectations were higher than what was delivered.,0,0
+R1043,2025-09-05 05:54:00,S19647,22,Other/Prefer not to say,Civil,4th Year,Tech Symposium,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1044,2025-09-04 12:52:00,S15304,25,Female,Civil,2nd Year,Workshop on ML,3,3,No,It was decent but there is room for improvement in scheduling. The venue was fine but refreshments could be better.,0,0
+R1045,2025-09-03 03:27:00,S10258,17,Other/Prefer not to say,Business,3rd Year,Tech Symposium,4,4,Yes,Great speakers and hands-on activities — learned a lot. The hands-on part and Q&A were particularly helpful.,1,0
+R1046,2025-09-03 19:47:00,S12854,20,Other/Prefer not to say,Civil,3rd Year,Sports Day,3,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1047,2025-09-10 01:29:00,S14347,25,Female,Civil,4th Year,Workshop on ML,3,4,Maybe,Very useful workshop with clear explanations and practical demos.,1,0
+R1048,2025-09-05 04:54:00,S10858,20,Female,Mechanical,3rd Year,Tech Symposium,4,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1049,2025-09-02 12:54:00,S12076,19,Female,Electronics,1st Year,Cultural Night,3,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1050,2025-09-02 10:19:00,S16897,25,Other/Prefer not to say,Civil,4th Year,Tech Symposium,5,5,Yes,Amazing experience. Would attend again and recommend to friends. The hands-on part and Q&A were particularly helpful.,2,0
+R1051,2025-09-05 16:44:00,S18619,18,Male,Business,1st Year,Sports Day,5,4,Yes,Amazing experience. Would attend again and recommend to friends. The hands-on part and Q&A were particularly helpful.,2,0
+R1052,2025-09-02 11:24:00,S11862,20,Male,Civil,2nd Year,Sports Day,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1053,2025-09-05 11:01:00,S11041,22,Other/Prefer not to say,Mechanical,3rd Year,Cultural Night,4,5,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1054,2025-09-11 00:25:00,S17802,18,Other/Prefer not to say,Biotech,3rd Year,Workshop on ML,3,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1055,2025-09-05 06:55:00,S17344,24,Other/Prefer not to say,Mechanical,1st Year,Cultural Night,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1056,2025-09-08 05:51:00,S15931,24,Female,Computer Science,4th Year,Tech Symposium,1,2,Yes,Too crowded and poor time management. Won't recommend. Communication about schedule was unclear.,0,3
+R1057,2025-09-04 09:13:00,S18408,17,Male,Business,4th Year,Cultural Night,3,3,No,"It served its purpose; not bad, not excellent.",0,2
+R1058,2025-09-10 13:23:00,S19726,19,Male,Civil,3rd Year,Workshop on ML,2,1,No,Disappointing—expectations were higher than what was delivered.,0,0
+R1059,2025-09-01 20:51:00,S11786,25,Male,Computer Science,1st Year,Alumni Talk,3,3,Maybe,"It served its purpose; not bad, not excellent.",0,2
+R1060,2025-09-09 16:15:00,S17405,21,Male,Civil,2nd Year,Cultural Night,3,3,Yes,Average event — good topics but execution could improve.,1,1
+R1061,2025-09-06 14:27:00,S18254,22,Male,Biotech,1st Year,Workshop on ML,3,3,Maybe,"It served its purpose; not bad, not excellent.",0,2
+R1062,2025-09-07 11:25:00,S13629,20,Male,Electronics,4th Year,Alumni Talk,5,5,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1063,2025-09-02 19:05:00,S10710,18,Other/Prefer not to say,Biotech,3rd Year,Workshop on ML,3,3,Yes,"The event was okay. Some sessions were useful, some were average.",0,0
+R1064,2025-09-05 16:21:00,S18543,24,Other/Prefer not to say,Mechanical,3rd Year,Workshop on ML,4,3,No,Average event — good topics but execution could improve.,1,1
+R1065,2025-09-02 06:31:00,S14941,22,Female,Mechanical,3rd Year,Alumni Talk,4,4,No,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1066,2025-09-07 15:44:00,S17504,21,Other/Prefer not to say,Computer Science,2nd Year,Cultural Night,3,2,Yes,Too crowded and poor time management. Won't recommend.,0,3
+R1067,2025-09-04 17:03:00,S10510,25,Other/Prefer not to say,Computer Science,2nd Year,Alumni Talk,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1068,2025-09-10 19:28:00,S10996,17,Male,Mechanical,4th Year,Cultural Night,1,2,Maybe,Speakers were not engaging and audio quality was bad.,0,1
+R1069,2025-09-08 12:39:00,S17847,21,Female,Business,1st Year,Workshop on ML,4,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1070,2025-09-08 09:53:00,S16580,22,Male,Mechanical,1st Year,Cultural Night,3,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1071,2025-09-11 04:18:00,S16984,21,Female,Mechanical,1st Year,Sports Day,2,3,Maybe,"It served its purpose; not bad, not excellent.",0,2
+R1072,2025-09-05 11:45:00,S11768,22,Other/Prefer not to say,Civil,2nd Year,Alumni Talk,1,1,No,Disappointing—expectations were higher than what was delivered.,0,0
+R1073,2025-09-07 22:39:00,S18032,22,Other/Prefer not to say,Biotech,3rd Year,Alumni Talk,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1074,2025-09-03 13:30:00,S17267,23,Male,Business,4th Year,Tech Symposium,3,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1075,2025-09-09 09:23:00,S11204,20,Male,Civil,4th Year,Workshop on ML,4,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1076,2025-09-02 03:59:00,S11323,24,Male,Electronics,2nd Year,Workshop on ML,5,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1077,2025-09-01 21:30:00,S15277,23,Other/Prefer not to say,Business,2nd Year,Cultural Night,1,2,Maybe,Too crowded and poor time management. Won't recommend.,0,3
+R1078,2025-09-08 21:34:00,S19966,25,Other/Prefer not to say,Civil,3rd Year,Sports Day,4,3,Yes,"The event was okay. Some sessions were useful, some were average. The venue was fine but refreshments could be better.",0,0
+R1079,2025-09-03 23:13:00,S12430,23,Other/Prefer not to say,Mechanical,3rd Year,Workshop on ML,2,2,No,Speakers were not engaging and audio quality was bad.,0,1
+R1080,2025-09-10 04:05:00,S11076,19,Female,Civil,2nd Year,Sports Day,4,5,No,Great speakers and hands-on activities — learned a lot.,1,0
+R1081,2025-09-04 16:01:00,S12067,19,Male,Computer Science,4th Year,Tech Symposium,4,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1082,2025-09-02 06:47:00,S14505,24,Female,Business,3rd Year,Alumni Talk,3,3,No,"It served its purpose; not bad, not excellent.",0,2
+R1083,2025-09-11 02:33:00,S19590,21,Other/Prefer not to say,Mechanical,3rd Year,Sports Day,3,2,Maybe,Too crowded and poor time management. Won't recommend.,0,3
+R1084,2025-09-04 00:34:00,S18984,20,Other/Prefer not to say,Biotech,4th Year,Workshop on ML,3,3,Yes,"It served its purpose; not bad, not excellent.",0,2
+R1085,2025-09-11 05:36:00,S15327,24,Female,Civil,3rd Year,Alumni Talk,4,3,No,Average event — good topics but execution could improve.,1,1
+R1086,2025-09-02 12:34:00,S16240,22,Male,Mechanical,4th Year,Sports Day,4,4,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1087,2025-09-05 16:47:00,S19787,18,Male,Business,1st Year,Sports Day,3,4,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1088,2025-09-04 12:54:00,S18692,20,Other/Prefer not to say,Computer Science,3rd Year,Cultural Night,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1089,2025-09-06 12:48:00,S14831,20,Other/Prefer not to say,Computer Science,3rd Year,Alumni Talk,5,4,Yes,Great speakers and hands-on activities — learned a lot. The hands-on part and Q&A were particularly helpful.,1,0
+R1090,2025-09-08 14:35:00,S17433,22,Other/Prefer not to say,Business,1st Year,Sports Day,3,2,Yes,Too crowded and poor time management. Won't recommend.,0,3
+R1091,2025-09-10 20:46:00,S18282,22,Male,Business,4th Year,Cultural Night,4,4,Maybe,Very useful workshop with clear explanations and practical demos.,1,0
+R1092,2025-09-05 12:37:00,S19919,17,Female,Civil,3rd Year,Workshop on ML,4,4,Maybe,Very useful workshop with clear explanations and practical demos.,1,0
+R1093,2025-09-03 05:24:00,S17048,24,Other/Prefer not to say,Mechanical,1st Year,Sports Day,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1094,2025-09-05 14:05:00,S11624,22,Other/Prefer not to say,Biotech,4th Year,Cultural Night,4,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1095,2025-09-05 10:00:00,S11874,19,Female,Business,3rd Year,Cultural Night,5,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1096,2025-09-03 18:12:00,S19033,25,Male,Business,2nd Year,Alumni Talk,5,4,Maybe,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1097,2025-09-09 00:00:00,S13522,18,Other/Prefer not to say,Electronics,1st Year,Cultural Night,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1098,2025-09-04 09:54:00,S17046,24,Male,Computer Science,4th Year,Sports Day,1,1,Maybe,Logistics were messy; the event lacked structure and clarity.,0,0
+R1099,2025-09-09 08:38:00,S17398,19,Other/Prefer not to say,Electronics,2nd Year,Tech Symposium,2,2,Maybe,Speakers were not engaging and audio quality was bad.,0,1
+R1100,2025-09-09 03:39:00,S13743,21,Male,Biotech,4th Year,Workshop on ML,1,1,Maybe,Too crowded and poor time management. Won't recommend. Communication about schedule was unclear.,0,3
+R1101,2025-09-08 17:57:00,S16779,22,Female,Business,2nd Year,Sports Day,5,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1102,2025-09-02 04:29:00,S15553,22,Other/Prefer not to say,Civil,2nd Year,Sports Day,3,3,Maybe,Average event — good topics but execution could improve.,1,1
+R1103,2025-09-08 07:20:00,S17430,20,Other/Prefer not to say,Computer Science,1st Year,Workshop on ML,5,4,Yes,Amazing experience. Would attend again and recommend to friends. The hands-on part and Q&A were particularly helpful.,2,0
+R1104,2025-09-08 14:23:00,S16532,19,Other/Prefer not to say,Electronics,1st Year,Workshop on ML,5,5,No,Loved the event! Very well organized and insightful sessions.,2,0
+R1105,2025-09-03 07:43:00,S16815,20,Other/Prefer not to say,Computer Science,2nd Year,Cultural Night,4,3,Maybe,Average event — good topics but execution could improve. The venue was fine but refreshments could be better.,1,1
+R1106,2025-09-07 10:51:00,S11557,17,Other/Prefer not to say,Electronics,1st Year,Sports Day,4,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1107,2025-09-09 16:06:00,S15120,20,Female,Business,4th Year,Cultural Night,3,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1108,2025-09-04 03:50:00,S16992,17,Other/Prefer not to say,Mechanical,3rd Year,Alumni Talk,4,3,Yes,"The event was okay. Some sessions were useful, some were average.",0,0
+R1109,2025-09-03 05:37:00,S15120,17,Other/Prefer not to say,Mechanical,4th Year,Cultural Night,1,2,No,Logistics were messy; the event lacked structure and clarity.,0,0
+R1110,2025-09-06 15:13:00,S14176,22,Male,Civil,2nd Year,Alumni Talk,3,3,Yes,"The event was okay. Some sessions were useful, some were average.",0,0
+R1111,2025-09-05 16:36:00,S16132,21,Other/Prefer not to say,Biotech,4th Year,Tech Symposium,4,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1112,2025-09-04 10:42:00,S12500,20,Male,Computer Science,2nd Year,Sports Day,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1113,2025-09-08 15:45:00,S17770,19,Female,Biotech,4th Year,Alumni Talk,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1114,2025-09-09 04:54:00,S11099,17,Male,Electronics,4th Year,Tech Symposium,4,4,No,Very useful workshop with clear explanations and practical demos.,1,0
+R1115,2025-09-07 17:05:00,S11494,22,Male,Business,1st Year,Workshop on ML,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1116,2025-09-03 20:58:00,S11398,18,Female,Civil,2nd Year,Cultural Night,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1117,2025-09-09 03:56:00,S11527,24,Female,Mechanical,2nd Year,Tech Symposium,3,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1118,2025-09-05 01:33:00,S17075,21,Male,Mechanical,3rd Year,Alumni Talk,5,5,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1119,2025-09-10 23:09:00,S11582,23,Male,Civil,4th Year,Sports Day,4,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1120,2025-09-10 02:48:00,S16105,18,Female,Computer Science,4th Year,Workshop on ML,5,5,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1121,2025-09-10 04:53:00,S12131,24,Female,Biotech,3rd Year,Workshop on ML,5,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1122,2025-09-02 00:16:00,S19115,18,Female,Electronics,2nd Year,Tech Symposium,2,3,Yes,It was decent but there is room for improvement in scheduling.,0,0
+R1123,2025-09-03 23:32:00,S10982,20,Female,Biotech,4th Year,Tech Symposium,2,2,Maybe,Logistics were messy; the event lacked structure and clarity. Communication about schedule was unclear.,0,0
+R1124,2025-09-10 17:24:00,S19608,17,Female,Mechanical,3rd Year,Cultural Night,2,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1125,2025-09-01 17:45:00,S19201,21,Male,Civil,3rd Year,Workshop on ML,4,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1126,2025-09-10 12:49:00,S19202,25,Female,Mechanical,3rd Year,Workshop on ML,5,5,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1127,2025-09-04 23:08:00,S15400,17,Other/Prefer not to say,Business,4th Year,Cultural Night,5,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1128,2025-09-05 22:32:00,S12002,25,Other/Prefer not to say,Mechanical,2nd Year,Sports Day,1,1,No,Too crowded and poor time management. Won't recommend. Communication about schedule was unclear.,0,3
+R1129,2025-09-04 10:06:00,S16730,24,Other/Prefer not to say,Electronics,2nd Year,Cultural Night,3,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1130,2025-09-02 03:04:00,S15793,22,Other/Prefer not to say,Computer Science,3rd Year,Alumni Talk,3,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1131,2025-09-03 18:36:00,S16929,23,Female,Computer Science,3rd Year,Alumni Talk,3,3,Maybe,It was decent but there is room for improvement in scheduling.,0,0
+R1132,2025-09-07 19:52:00,S10842,19,Other/Prefer not to say,Business,2nd Year,Tech Symposium,2,2,Maybe,Logistics were messy; the event lacked structure and clarity.,0,0
+R1133,2025-09-11 08:18:00,S14712,17,Male,Electronics,3rd Year,Cultural Night,2,3,No,It was decent but there is room for improvement in scheduling.,0,0
+R1134,2025-09-09 13:02:00,S19837,21,Other/Prefer not to say,Civil,3rd Year,Cultural Night,4,5,Maybe,Great speakers and hands-on activities — learned a lot. The hands-on part and Q&A were particularly helpful.,1,0
+R1135,2025-09-04 22:55:00,S15119,18,Female,Biotech,2nd Year,Tech Symposium,3,3,No,It was decent but there is room for improvement in scheduling.,0,0
+R1136,2025-09-03 19:03:00,S15761,21,Other/Prefer not to say,Civil,4th Year,Sports Day,3,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1137,2025-09-08 19:58:00,S11697,24,Male,Biotech,3rd Year,Cultural Night,5,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1138,2025-09-07 01:19:00,S19468,25,Female,Computer Science,4th Year,Workshop on ML,3,3,No,Average event — good topics but execution could improve. The venue was fine but refreshments could be better.,1,1
+R1139,2025-09-05 21:02:00,S18313,18,Female,Mechanical,3rd Year,Cultural Night,4,5,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1140,2025-09-08 16:32:00,S13485,19,Female,Mechanical,3rd Year,Sports Day,4,5,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1141,2025-09-06 14:17:00,S12535,19,Other/Prefer not to say,Business,3rd Year,Cultural Night,4,3,Maybe,Average event — good topics but execution could improve.,1,1
+R1142,2025-09-03 00:00:00,S17900,17,Other/Prefer not to say,Civil,1st Year,Workshop on ML,4,4,Maybe,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1143,2025-09-04 09:19:00,S13674,24,Female,Electronics,4th Year,Alumni Talk,3,3,Yes,Average event — good topics but execution could improve.,1,1
+R1144,2025-09-02 23:07:00,S11773,22,Other/Prefer not to say,Biotech,4th Year,Alumni Talk,4,3,Yes,"It served its purpose; not bad, not excellent.",0,2
+R1145,2025-09-04 04:20:00,S15736,24,Male,Mechanical,3rd Year,Sports Day,2,1,Yes,Not satisfied. Sessions started late and organization was poor.,0,2
+R1146,2025-09-09 20:25:00,S19113,25,Female,Business,2nd Year,Sports Day,5,4,Maybe,Very useful workshop with clear explanations and practical demos.,1,0
+R1147,2025-09-07 18:17:00,S16022,21,Male,Civil,3rd Year,Workshop on ML,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1148,2025-09-07 12:10:00,S11882,19,Male,Electronics,1st Year,Alumni Talk,2,2,No,Disappointing—expectations were higher than what was delivered.,0,0
+R1149,2025-09-04 08:44:00,S14564,21,Other/Prefer not to say,Computer Science,3rd Year,Alumni Talk,2,3,Maybe,It was decent but there is room for improvement in scheduling.,0,0
+R1150,2025-09-09 20:59:00,S19406,21,Other/Prefer not to say,Electronics,1st Year,Alumni Talk,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1151,2025-09-08 00:37:00,S13705,21,Female,Computer Science,3rd Year,Alumni Talk,3,3,Maybe,It was decent but there is room for improvement in scheduling.,0,0
+R1152,2025-09-06 05:59:00,S17030,19,Male,Civil,4th Year,Workshop on ML,2,2,Maybe,Too crowded and poor time management. Won't recommend.,0,3
+R1153,2025-09-08 00:20:00,S19190,20,Other/Prefer not to say,Electronics,3rd Year,Sports Day,5,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1154,2025-09-05 22:03:00,S19121,25,Male,Business,4th Year,Sports Day,4,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1155,2025-09-05 11:50:00,S10430,25,Other/Prefer not to say,Civil,2nd Year,Tech Symposium,3,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1156,2025-09-03 20:53:00,S19977,18,Male,Computer Science,2nd Year,Sports Day,3,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1157,2025-09-02 22:46:00,S14381,24,Female,Business,3rd Year,Alumni Talk,4,4,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1158,2025-09-07 04:08:00,S10474,24,Other/Prefer not to say,Mechanical,3rd Year,Cultural Night,2,3,No,Average event — good topics but execution could improve.,1,1
+R1159,2025-09-06 23:45:00,S12955,23,Female,Business,2nd Year,Alumni Talk,3,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1160,2025-09-02 09:49:00,S14477,24,Male,Mechanical,1st Year,Alumni Talk,2,3,Maybe,"It served its purpose; not bad, not excellent. The venue was fine but refreshments could be better.",0,2
+R1161,2025-09-09 23:22:00,S15062,19,Male,Business,2nd Year,Sports Day,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1162,2025-09-01 21:51:00,S15567,22,Female,Computer Science,2nd Year,Tech Symposium,4,4,Maybe,Amazing experience. Would attend again and recommend to friends. The hands-on part and Q&A were particularly helpful.,2,0
+R1163,2025-09-11 04:08:00,S15751,17,Male,Biotech,1st Year,Workshop on ML,4,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1164,2025-09-02 14:56:00,S10100,23,Other/Prefer not to say,Biotech,2nd Year,Cultural Night,3,2,Maybe,Not satisfied. Sessions started late and organization was poor.,0,2
+R1165,2025-09-03 02:44:00,S12972,17,Other/Prefer not to say,Mechanical,2nd Year,Cultural Night,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1166,2025-09-08 12:20:00,S12347,25,Male,Mechanical,1st Year,Tech Symposium,3,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1167,2025-09-03 04:41:00,S19278,17,Male,Electronics,1st Year,Alumni Talk,4,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1168,2025-09-10 09:17:00,S16566,17,Male,Business,4th Year,Workshop on ML,1,1,Yes,Too crowded and poor time management. Won't recommend.,0,3
+R1169,2025-09-09 02:49:00,S11140,23,Male,Business,3rd Year,Workshop on ML,5,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1170,2025-09-06 04:16:00,S12324,18,Other/Prefer not to say,Business,4th Year,Workshop on ML,3,4,Yes,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1171,2025-09-08 03:51:00,S10502,21,Other/Prefer not to say,Business,1st Year,Sports Day,2,1,No,Disappointing—expectations were higher than what was delivered.,0,0
+R1172,2025-09-02 02:20:00,S11503,24,Male,Electronics,2nd Year,Alumni Talk,3,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1173,2025-09-05 18:04:00,S18691,24,Female,Mechanical,1st Year,Cultural Night,4,3,Yes,"It served its purpose; not bad, not excellent.",0,2
+R1174,2025-09-05 17:12:00,S13524,19,Female,Biotech,2nd Year,Cultural Night,4,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1175,2025-09-08 03:43:00,S16163,23,Other/Prefer not to say,Electronics,4th Year,Alumni Talk,4,3,Yes,"The event was okay. Some sessions were useful, some were average.",0,0
+R1176,2025-09-06 16:48:00,S16878,19,Female,Computer Science,4th Year,Cultural Night,3,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1177,2025-09-07 09:29:00,S17432,22,Male,Electronics,4th Year,Sports Day,3,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1178,2025-09-04 05:39:00,S15585,22,Female,Electronics,2nd Year,Workshop on ML,5,5,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1179,2025-09-07 16:04:00,S12578,19,Other/Prefer not to say,Electronics,3rd Year,Cultural Night,2,2,Yes,Speakers were not engaging and audio quality was bad.,0,1
+R1180,2025-09-11 04:03:00,S16062,23,Male,Civil,3rd Year,Sports Day,3,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1181,2025-09-01 12:08:00,S15105,19,Male,Computer Science,3rd Year,Workshop on ML,2,2,No,Disappointing—expectations were higher than what was delivered.,0,0
+R1182,2025-09-09 02:45:00,S15314,24,Other/Prefer not to say,Mechanical,1st Year,Alumni Talk,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1183,2025-09-09 13:48:00,S19299,20,Female,Biotech,1st Year,Alumni Talk,5,5,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1184,2025-09-02 16:16:00,S19768,17,Other/Prefer not to say,Biotech,2nd Year,Sports Day,3,3,Maybe,It was decent but there is room for improvement in scheduling.,0,0
+R1185,2025-09-09 03:09:00,S11391,20,Other/Prefer not to say,Mechanical,1st Year,Sports Day,5,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1186,2025-09-07 11:37:00,S10861,23,Female,Civil,2nd Year,Sports Day,4,5,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1187,2025-09-09 22:02:00,S12549,20,Male,Biotech,4th Year,Cultural Night,4,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1188,2025-09-04 09:51:00,S12579,22,Female,Electronics,2nd Year,Alumni Talk,5,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1189,2025-09-10 02:52:00,S10815,25,Female,Biotech,1st Year,Cultural Night,4,3,Yes,"It served its purpose; not bad, not excellent.",0,2
+R1190,2025-09-08 16:01:00,S11336,17,Male,Computer Science,4th Year,Cultural Night,2,2,Yes,Not satisfied. Sessions started late and organization was poor.,0,2
+R1191,2025-09-05 05:53:00,S14458,21,Male,Computer Science,4th Year,Workshop on ML,5,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1192,2025-09-02 15:27:00,S17259,23,Other/Prefer not to say,Mechanical,2nd Year,Sports Day,5,5,Maybe,Very useful workshop with clear explanations and practical demos.,1,0
+R1193,2025-09-04 17:08:00,S16947,17,Female,Civil,3rd Year,Cultural Night,3,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1194,2025-09-06 07:43:00,S17957,20,Male,Business,1st Year,Workshop on ML,3,3,Maybe,Average event — good topics but execution could improve.,1,1
+R1195,2025-09-03 04:11:00,S19946,22,Female,Business,1st Year,Tech Symposium,3,3,No,Neutral experience. Expected more interaction from speakers.,0,0
+R1196,2025-09-06 12:53:00,S17242,18,Female,Civil,3rd Year,Workshop on ML,4,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1197,2025-09-01 09:53:00,S16785,21,Male,Biotech,1st Year,Tech Symposium,4,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1198,2025-09-09 14:10:00,S14475,17,Male,Civil,3rd Year,Tech Symposium,5,5,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1199,2025-09-11 08:09:00,S13531,22,Female,Civil,3rd Year,Tech Symposium,5,4,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1200,2025-09-09 13:31:00,S18394,22,Male,Biotech,4th Year,Tech Symposium,4,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1201,2025-09-04 08:55:00,S11864,20,Female,Computer Science,4th Year,Sports Day,2,2,Maybe,Too crowded and poor time management. Won't recommend.,0,3
+R1202,2025-09-07 01:41:00,S15655,24,Male,Electronics,2nd Year,Cultural Night,3,3,No,Average event — good topics but execution could improve.,1,1
+R1203,2025-09-10 01:03:00,S17043,20,Other/Prefer not to say,Mechanical,4th Year,Cultural Night,5,5,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1204,2025-09-03 09:47:00,S11816,24,Male,Business,3rd Year,Tech Symposium,4,4,Maybe,Loved the event! Very well organized and insightful sessions. The hands-on part and Q&A were particularly helpful.,2,0
+R1205,2025-09-07 03:37:00,S14640,24,Female,Computer Science,2nd Year,Cultural Night,1,1,Maybe,Logistics were messy; the event lacked structure and clarity.,0,0
+R1206,2025-09-02 14:03:00,S19717,21,Male,Civil,1st Year,Tech Symposium,3,2,No,Not satisfied. Sessions started late and organization was poor.,0,2
+R1207,2025-09-11 06:42:00,S17972,20,Female,Civil,3rd Year,Cultural Night,5,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1208,2025-09-08 11:44:00,S18633,18,Male,Business,2nd Year,Workshop on ML,2,1,Maybe,Too crowded and poor time management. Won't recommend. Communication about schedule was unclear.,0,3
+R1209,2025-09-04 18:29:00,S15053,19,Female,Biotech,4th Year,Sports Day,3,3,No,It was decent but there is room for improvement in scheduling.,0,0
+R1210,2025-09-10 22:49:00,S10744,19,Female,Mechanical,3rd Year,Alumni Talk,4,4,Yes,Great speakers and hands-on activities — learned a lot. The hands-on part and Q&A were particularly helpful.,1,0
+R1211,2025-09-08 15:28:00,S13612,20,Male,Electronics,2nd Year,Tech Symposium,4,4,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1212,2025-09-07 03:37:00,S16475,20,Female,Biotech,1st Year,Workshop on ML,5,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1213,2025-09-08 07:17:00,S19819,21,Other/Prefer not to say,Business,3rd Year,Workshop on ML,4,3,No,Neutral experience. Expected more interaction from speakers.,0,0
+R1214,2025-09-03 15:18:00,S10897,20,Other/Prefer not to say,Biotech,3rd Year,Sports Day,3,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1215,2025-09-03 02:44:00,S10125,24,Male,Electronics,2nd Year,Sports Day,2,3,No,Neutral experience. Expected more interaction from speakers.,0,0
+R1216,2025-09-05 15:06:00,S13349,22,Female,Electronics,2nd Year,Tech Symposium,3,3,No,Average event — good topics but execution could improve.,1,1
+R1217,2025-09-10 01:12:00,S14938,22,Female,Civil,4th Year,Tech Symposium,5,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1218,2025-09-03 05:06:00,S13460,24,Female,Biotech,4th Year,Workshop on ML,5,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1219,2025-09-07 12:17:00,S12248,23,Male,Computer Science,3rd Year,Workshop on ML,4,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1220,2025-09-10 05:37:00,S14186,24,Male,Computer Science,1st Year,Sports Day,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1221,2025-09-07 09:49:00,S14742,18,Other/Prefer not to say,Biotech,4th Year,Tech Symposium,4,4,No,Loved the event! Very well organized and insightful sessions.,2,0
+R1222,2025-09-01 09:09:00,S15375,25,Female,Electronics,1st Year,Tech Symposium,3,2,Maybe,Not satisfied. Sessions started late and organization was poor.,0,2
+R1223,2025-09-08 04:33:00,S11965,17,Other/Prefer not to say,Mechanical,2nd Year,Workshop on ML,4,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1224,2025-09-05 01:30:00,S10126,24,Male,Electronics,2nd Year,Alumni Talk,4,3,No,"The event was okay. Some sessions were useful, some were average.",0,0
+R1225,2025-09-06 22:25:00,S18149,20,Male,Electronics,4th Year,Workshop on ML,3,3,No,"The event was okay. Some sessions were useful, some were average.",0,0
+R1226,2025-09-01 14:19:00,S17055,20,Other/Prefer not to say,Mechanical,3rd Year,Alumni Talk,5,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1227,2025-09-02 15:32:00,S12878,21,Female,Business,2nd Year,Tech Symposium,3,3,Yes,It was decent but there is room for improvement in scheduling.,0,0
+R1228,2025-09-05 12:07:00,S12116,24,Female,Electronics,1st Year,Workshop on ML,4,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1229,2025-09-11 08:56:00,S16229,21,Female,Mechanical,3rd Year,Sports Day,5,4,Yes,Great speakers and hands-on activities — learned a lot. The hands-on part and Q&A were particularly helpful.,1,0
+R1230,2025-09-10 20:06:00,S18725,24,Male,Biotech,4th Year,Cultural Night,5,4,No,Loved the event! Very well organized and insightful sessions.,2,0
+R1231,2025-09-10 13:18:00,S13770,17,Female,Mechanical,2nd Year,Tech Symposium,5,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1232,2025-09-04 20:58:00,S18196,25,Female,Computer Science,4th Year,Tech Symposium,5,4,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1233,2025-09-04 02:23:00,S19154,22,Other/Prefer not to say,Mechanical,3rd Year,Workshop on ML,4,4,Yes,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1234,2025-09-02 00:49:00,S15802,19,Other/Prefer not to say,Electronics,3rd Year,Cultural Night,3,3,No,Average event — good topics but execution could improve.,1,1
+R1235,2025-09-04 02:46:00,S11180,24,Other/Prefer not to say,Business,3rd Year,Cultural Night,5,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1236,2025-09-11 08:45:00,S16505,25,Other/Prefer not to say,Biotech,1st Year,Cultural Night,4,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1237,2025-09-07 19:55:00,S10693,22,Male,Mechanical,3rd Year,Workshop on ML,1,1,Yes,Too crowded and poor time management. Won't recommend.,0,3
+R1238,2025-09-02 06:30:00,S17147,23,Female,Electronics,3rd Year,Workshop on ML,4,4,Yes,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1239,2025-09-02 08:23:00,S10307,17,Male,Business,2nd Year,Alumni Talk,2,3,No,Average event — good topics but execution could improve.,1,1
+R1240,2025-09-09 16:51:00,S17532,21,Female,Mechanical,1st Year,Alumni Talk,5,5,No,Very useful workshop with clear explanations and practical demos.,1,0
+R1241,2025-09-06 21:42:00,S11275,21,Male,Biotech,1st Year,Alumni Talk,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1242,2025-09-10 15:49:00,S15129,20,Female,Biotech,4th Year,Sports Day,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1243,2025-09-02 03:53:00,S19433,22,Female,Computer Science,3rd Year,Tech Symposium,3,3,Maybe,It was decent but there is room for improvement in scheduling.,0,0
+R1244,2025-09-10 00:41:00,S17033,23,Female,Biotech,2nd Year,Alumni Talk,1,1,Maybe,Too crowded and poor time management. Won't recommend. Communication about schedule was unclear.,0,3
+R1245,2025-09-07 10:27:00,S19394,25,Male,Business,4th Year,Sports Day,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1246,2025-09-10 02:07:00,S16626,17,Other/Prefer not to say,Electronics,3rd Year,Sports Day,3,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1247,2025-09-02 19:20:00,S16843,22,Other/Prefer not to say,Biotech,1st Year,Workshop on ML,5,5,Yes,Amazing experience. Would attend again and recommend to friends. The hands-on part and Q&A were particularly helpful.,2,0
+R1248,2025-09-02 20:03:00,S14743,23,Male,Biotech,3rd Year,Cultural Night,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1249,2025-09-08 21:09:00,S11887,19,Female,Electronics,3rd Year,Cultural Night,5,5,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1250,2025-09-06 18:47:00,S16636,24,Female,Electronics,2nd Year,Alumni Talk,3,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1251,2025-09-07 15:07:00,S10341,21,Male,Business,2nd Year,Tech Symposium,4,3,Yes,Average event — good topics but execution could improve.,1,1
+R1252,2025-09-03 06:05:00,S15321,25,Other/Prefer not to say,Biotech,2nd Year,Tech Symposium,5,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1253,2025-09-04 09:22:00,S12815,21,Other/Prefer not to say,Business,4th Year,Tech Symposium,3,3,Maybe,It was decent but there is room for improvement in scheduling.,0,0
+R1254,2025-09-07 09:05:00,S17538,25,Female,Biotech,2nd Year,Sports Day,4,3,Yes,Neutral experience. Expected more interaction from speakers.,0,0
+R1255,2025-09-11 07:13:00,S15928,20,Other/Prefer not to say,Mechanical,4th Year,Sports Day,4,4,No,Great speakers and hands-on activities — learned a lot.,1,0
+R1256,2025-09-08 06:38:00,S11443,25,Other/Prefer not to say,Biotech,3rd Year,Sports Day,4,5,Yes,Great speakers and hands-on activities — learned a lot.,1,0
+R1257,2025-09-06 04:32:00,S17155,21,Other/Prefer not to say,Computer Science,4th Year,Workshop on ML,3,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1258,2025-09-03 18:50:00,S11734,25,Female,Computer Science,4th Year,Sports Day,4,4,No,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1259,2025-09-07 12:15:00,S13986,19,Other/Prefer not to say,Computer Science,2nd Year,Tech Symposium,2,2,Yes,Disappointing—expectations were higher than what was delivered.,0,0
+R1260,2025-09-09 23:14:00,S17138,20,Female,Computer Science,2nd Year,Tech Symposium,4,4,Maybe,Loved the event! Very well organized and insightful sessions.,2,0
+R1261,2025-09-09 16:19:00,S19648,25,Male,Business,1st Year,Cultural Night,5,5,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1262,2025-09-09 05:22:00,S16560,22,Male,Biotech,4th Year,Tech Symposium,1,2,Yes,Speakers were not engaging and audio quality was bad.,0,1
+R1263,2025-09-03 15:55:00,S18584,18,Female,Mechanical,3rd Year,Sports Day,3,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1264,2025-09-09 11:40:00,S11288,23,Other/Prefer not to say,Business,1st Year,Sports Day,5,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1265,2025-09-04 22:07:00,S16484,18,Male,Electronics,1st Year,Alumni Talk,4,4,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1266,2025-09-05 21:57:00,S15083,18,Female,Biotech,1st Year,Workshop on ML,4,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1267,2025-09-09 00:24:00,S15562,17,Other/Prefer not to say,Civil,2nd Year,Tech Symposium,4,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1268,2025-09-08 18:27:00,S13630,19,Male,Biotech,2nd Year,Workshop on ML,4,3,Yes,Neutral experience. Expected more interaction from speakers.,0,0
+R1269,2025-09-05 14:58:00,S15456,22,Female,Business,2nd Year,Tech Symposium,3,3,Maybe,Neutral experience. Expected more interaction from speakers.,0,0
+R1270,2025-09-06 08:37:00,S12754,24,Other/Prefer not to say,Computer Science,3rd Year,Cultural Night,5,5,Yes,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1271,2025-09-07 06:19:00,S11251,25,Other/Prefer not to say,Civil,4th Year,Cultural Night,5,5,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1272,2025-09-06 12:17:00,S18363,23,Female,Business,1st Year,Workshop on ML,5,5,No,Great speakers and hands-on activities — learned a lot.,1,0
+R1273,2025-09-02 18:02:00,S11868,20,Other/Prefer not to say,Biotech,2nd Year,Sports Day,5,5,Maybe,Excellent coordination and helpful volunteers. Kudos to the team!,3,0
+R1274,2025-09-04 04:41:00,S18693,22,Male,Mechanical,4th Year,Alumni Talk,5,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1275,2025-09-03 22:21:00,S18355,21,Female,Business,1st Year,Tech Symposium,5,4,Maybe,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1276,2025-09-02 02:29:00,S13176,24,Other/Prefer not to say,Mechanical,4th Year,Tech Symposium,3,4,Maybe,Very useful workshop with clear explanations and practical demos. The hands-on part and Q&A were particularly helpful.,1,0
+R1277,2025-09-05 05:19:00,S15724,17,Other/Prefer not to say,Civil,1st Year,Alumni Talk,5,4,No,Amazing experience. Would attend again and recommend to friends.,2,0
+R1278,2025-09-01 14:44:00,S15752,17,Other/Prefer not to say,Electronics,4th Year,Workshop on ML,4,4,Maybe,Amazing experience. Would attend again and recommend to friends.,2,0
+R1279,2025-09-08 01:38:00,S12419,22,Other/Prefer not to say,Business,2nd Year,Workshop on ML,4,4,Yes,Amazing experience. Would attend again and recommend to friends. The hands-on part and Q&A were particularly helpful.,2,0
+R1280,2025-09-07 16:15:00,S13871,18,Other/Prefer not to say,Civil,4th Year,Tech Symposium,5,5,Maybe,Great speakers and hands-on activities — learned a lot.,1,0
+R1281,2025-09-03 23:50:00,S11684,21,Female,Mechanical,4th Year,Cultural Night,4,3,No,"It served its purpose; not bad, not excellent.",0,2
+R1282,2025-09-08 01:41:00,S12399,17,Male,Civil,1st Year,Alumni Talk,3,3,Maybe,"It served its purpose; not bad, not excellent.",0,2
+R1283,2025-09-03 21:08:00,S14193,23,Male,Computer Science,4th Year,Tech Symposium,2,2,Maybe,Logistics were messy; the event lacked structure and clarity.,0,0
+R1284,2025-09-01 10:57:00,S13232,17,Female,Business,3rd Year,Cultural Night,4,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1285,2025-09-02 04:23:00,S12842,20,Other/Prefer not to say,Computer Science,1st Year,Workshop on ML,1,1,Yes,Too crowded and poor time management. Won't recommend.,0,3
+R1286,2025-09-09 10:17:00,S19869,25,Male,Electronics,4th Year,Cultural Night,3,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1287,2025-09-08 13:19:00,S12504,17,Male,Civil,3rd Year,Sports Day,3,4,No,Loved the event! Very well organized and insightful sessions. The hands-on part and Q&A were particularly helpful.,2,0
+R1288,2025-09-02 01:04:00,S11234,20,Male,Civil,1st Year,Tech Symposium,2,3,Maybe,"The event was okay. Some sessions were useful, some were average.",0,0
+R1289,2025-09-03 23:30:00,S12902,22,Other/Prefer not to say,Civil,2nd Year,Alumni Talk,3,4,Yes,Excellent coordination and helpful volunteers. Kudos to the team! The hands-on part and Q&A were particularly helpful.,3,0
+R1290,2025-09-02 03:24:00,S18095,22,Female,Civil,1st Year,Cultural Night,1,1,Maybe,Speakers were not engaging and audio quality was bad.,0,1
+R1291,2025-09-01 17:34:00,S17601,24,Male,Electronics,1st Year,Workshop on ML,1,1,Yes,Speakers were not engaging and audio quality was bad.,0,1
+R1292,2025-09-11 03:44:00,S19236,17,Female,Mechanical,4th Year,Cultural Night,4,5,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1293,2025-09-05 03:13:00,S19494,23,Male,Biotech,3rd Year,Workshop on ML,3,3,Yes,"It served its purpose; not bad, not excellent.",0,2
+R1294,2025-09-02 04:20:00,S17354,17,Female,Electronics,1st Year,Sports Day,3,2,Yes,Speakers were not engaging and audio quality was bad.,0,1
+R1295,2025-09-07 05:23:00,S19248,23,Other/Prefer not to say,Mechanical,1st Year,Workshop on ML,4,4,Yes,Loved the event! Very well organized and insightful sessions.,2,0
+R1296,2025-09-04 01:59:00,S15295,19,Other/Prefer not to say,Business,1st Year,Alumni Talk,4,4,Yes,Very useful workshop with clear explanations and practical demos.,1,0
+R1297,2025-09-04 13:02:00,S15179,24,Other/Prefer not to say,Mechanical,4th Year,Sports Day,2,3,Yes,Neutral experience. Expected more interaction from speakers. The venue was fine but refreshments could be better.,0,0
+R1298,2025-09-08 23:40:00,S12473,19,Female,Business,1st Year,Cultural Night,3,4,Yes,Amazing experience. Would attend again and recommend to friends.,2,0
+R1299,2025-09-06 21:33:00,S17205,17,Other/Prefer not to say,Mechanical,3rd Year,Tech Symposium,1,2,Maybe,Too crowded and poor time management. Won't recommend.,0,3
